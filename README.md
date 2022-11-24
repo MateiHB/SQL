@@ -1,7 +1,8 @@
 # SQL
 
 <pre>
-This was a project for the "Database" class. We were tasked to create a database for a university to manage internships.
+This was a project for the "Database" class. 
+We were tasked to create a database for a university to manage internships.
 </pre>
 
 <br>
